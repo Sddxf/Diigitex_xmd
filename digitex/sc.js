@@ -40,23 +40,26 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *GITHUB LINK*
-> https://github.com/sesco001
+> https://github.com/DIGITEXMEDIA
+
+*PANEL HOST SITE*
+> https://Digitexsmartsolutions.com
 
 *TELEGRAM GROUP*
 > https://t.me/+u3zlb5y6OfxhOTdk
 
-*FOR MORE INFO*
-> ${conf.SITE}1
+*FOR DEVELOPER T.ME*
+> https://t.me/freditech
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vb5zdsiA89MrLd1hAk2Q
+> https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/sesco001/Diigitex_xmd
+> https://github.com/sesco001/Makamesco_md
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┃▓▒ *DEV* : *DIGITEX BOT*
+┃▓▒ *DEV* : *DIIGITEX BOT*
 ┃ ❂━━━════➳════━━━━❂
 ⁠⁠⁠⁠╰──━━━━═════════━━━━⦿ 
   `;
@@ -64,7 +67,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ DIGITEX MD
+     ┃▓ DIIGITEX MD
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
