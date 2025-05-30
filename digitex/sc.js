@@ -52,10 +52,10 @@ const date = moment().format('DD/MM/YYYY');
 > https://t.me/freditech
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VbAEL9r5vKA7RCdnYG0S
+>https://whatsapp.com/channel/0029Vb5zdsiA89MrLd1hAk2Q
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/sesco001/Makamesco_md
+> https://github.com/sesco001/Diigitex_xmd
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
