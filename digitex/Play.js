@@ -90,13 +90,13 @@ ezra({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*DIGITEX MD AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in 🇰🇪 KENYA
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by Jumatech 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/sesco001/Diigitex_xmd
 
 > regards frediezra`,
         audio: { url: downloadUrl },
@@ -114,15 +114,15 @@ ezra({
         },
       },
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*MAKAMESCO MD AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in 🇰🇪 kenya
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by digitextech 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/sesco001/Diigitex_xmd
 
-> regards frediezra`,
+> regards digitex`,
         document: { url: downloadUrl },
         mimetype: 'audio/mpeg',
         contextInfo: {
@@ -138,15 +138,15 @@ ezra({
         },
       },
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*DIGITEX MD AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in Kenya
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by Digitextech 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/sesco001/Diigitex_xmd
 
-> regards frediezra`,
+> regards digitex `,
         document: { url: downloadUrl },
         mimetype: 'audio/mp4',
         contextInfo: {
@@ -239,15 +239,16 @@ ezra({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*DIGITEX MD AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
-┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
-╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+┊ *Made:* in Kenya
 
-> regards frediezra`,
+┊ *Quality:* High
+┊ *Powered:* by Digitex tech 
+╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
+🌐 *Bot Repo:* https://github.com/sesco001/Diigitex_xmd
+
+> regards digitex`,
         video: { url: downloadUrl },
         mimetype: 'video/mp4',
         contextInfo: {
@@ -263,15 +264,15 @@ ezra({
         },
       },
       {
-      caption: `\n*MAKAMESCO MD AUDIOS*\n
+      caption: `\n*DIGITEX MD AUDIOS*\n
 ╭┈┈┈⊷
 ┊ *Made:* in Nairobi Kenya
 ┊ *Quality:* High
-┊ *Powered:* by MAKAMESCO 
+┊ *Powered:* by DIGITEX
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/sesco001/Makamesco_md
+🌐 *Bot Repo:* https://github.com/sesco001/Diigitex_xmd
 
-> regards MAKAMESCO `,
+> regards DIGITEX `,
         document: { url: downloadUrl },
         mimetype: 'video/mp4',
         contextInfo: {
