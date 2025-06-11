@@ -1,4 +1,3 @@
-
 FROM node:lts-buster
 
 RUN apt-get update && \
@@ -7,19 +6,14 @@ RUN apt-get update && \
   imagemagick \
   webp && \
   apt-get upgrade -y && \
-  npm i pm2 -g && \
+  npm install -g pm2 && \
   rm -rf /var/lib/apt/lists/*
-  
+
 RUN git clone https://github.com/Sddxf/Diigitex_xmd /root/lucky_bot
-WORKDIR /root/lucky_Bot/
+WORKDIR /root/lucky_bot
 
-
-COPY package.json .
-RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps
-
-COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "lucky"]
+CMD ["npm", "run", "lucky"]
