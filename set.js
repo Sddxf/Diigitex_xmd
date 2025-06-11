@@ -10,8 +10,8 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
 module.exports = { session: process.env.SESSION_ID || 'ezra',
     PREFIXE: process.env.PREFIX || ".",
     GITHUB : process.env.GITHUB|| 'https://github.com/sesco001/Diigitex_xmd',
-    OWNER_NAME : process.env.OWNER_NAME || "Juma Wycliffe",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "254748571920",  
+    OWNER_NAME : process.env.OWNER_NAME || "Nicolaus Daniel 2😈😈",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "255652398614",  
               
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
